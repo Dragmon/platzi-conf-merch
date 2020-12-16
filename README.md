@@ -5,6 +5,7 @@ React Hook course project, which consists of creating the store of the platzi co
 ## Used technology
 
 - React JS
+- React Router
 - Webpack
 - Babel
 - CSS
