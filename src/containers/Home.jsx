@@ -1,7 +1,9 @@
 import React from 'react'
+import Products from '../components/Products'
+import initialState from '../intialState'
 
 const Home = () => (
-  <h1>Home</h1>
+  <Products products={initialState} />
   )
 
 export default Home;
